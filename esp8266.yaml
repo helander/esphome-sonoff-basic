@@ -24,15 +24,15 @@ wifi:
 captive_portal:
 
 # Enable logging
-logger:
+#logger:
 
 ota:
 
 web_server:
   port: 80
   
-mqtt:
-  broker: 192.168.200.41
+#mqtt:
+#  broker: 192.168.200.41
   
 
 binary_sensor:
